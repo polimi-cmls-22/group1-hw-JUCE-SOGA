@@ -1,7 +1,6 @@
 #include "PluginProcessor.h"
 #include "PluginEditor.h"
 #include <math.h>
-#include <windows.h>
 
 //==============================================================================
 DelayLineAudioProcessor::DelayLineAudioProcessor()
